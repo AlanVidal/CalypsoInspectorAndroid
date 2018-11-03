@@ -1,7 +1,7 @@
 # Calypso Inspector (Android)
 
 
-Ce repos est un très modeste fork du projet de lecteur de cart Calypso initié par ABeaujet. N'ayant pas pu compiler le pull de son repos, voici une version avec les librairies et la configuration a priori manquante. 
+Ce repos est un très modeste fork du projet de lecteur de carte Calypso initié par ABeaujet. N'ayant pas pu compiler le pull de son repos, voici une version avec les librairies et la configuration a priori manquante. 
 Le path est les fichiers de configurations ont été placé à la racine de la SD /networks/.../... .
 Au plaisir de collaborer afin de développer la topologie des réseaux parisiens. 
 
